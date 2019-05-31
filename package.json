@@ -4,7 +4,7 @@
   "description": "",
   "main": "lucky.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha **/**.spec.js"
   },
   "repository": {
     "type": "git",

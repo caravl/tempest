@@ -35,11 +35,12 @@ function findRange(num1, num2) {
     }
   }
   if (luckyNumbers.length === 0) {
-    console.log('Sorry, no lucky numbers!');
+    return 'Sorry, no lucky numbers!';
   } else {
     return luckyNumbers;
   }
-
 }
 
 findRange(args[0], args[1]);
+
+module.exports = { findSum, findRange };
