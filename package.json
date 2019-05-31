@@ -1,0 +1,24 @@
+{
+  "name": "tempest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lucky.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caravl/tempest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caravl/tempest/issues"
+  },
+  "homepage": "https://github.com/caravl/tempest#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jasmine": "^3.4.0",
+    "mocha": "^6.1.4"
+  }
+}
