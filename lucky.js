@@ -22,6 +22,7 @@ function findSum(num) {
 
 function findRange(num1, num2) {
   let luckyNumbers = [];
+
   let range = [];
   for (var k = num1; k <= num2; k++) {
     range.push(k);
@@ -36,7 +37,6 @@ function findRange(num1, num2) {
   if (luckyNumbers.length === 0) {
     console.log('Sorry, no lucky numbers!');
   } else {
-    // console.log(luckyNumbers)
     return luckyNumbers;
   }
 
