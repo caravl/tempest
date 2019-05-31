@@ -8,7 +8,7 @@ You will submit two files: a RSpec file and a Ruby file. Your RSpec tests should
 Your program should work as follows (arg1 = 100, arg2 = 200):
 
 ## To Run Code
-In your command line, run `node lucky.js 100 200`
+From your command line, run `node lucky.js 100 200`
 
 ## To Run Tests
-In your command line, run `npm test`
+From your command line, run `npm test`
