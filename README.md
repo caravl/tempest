@@ -10,5 +10,5 @@ Your program should work as follows (arg1 = 100, arg2 = 200):
 ## To Run Code
 In your command line, run `node lucky.js 100 200`
 
-## To Test Code
+## To Run Tests
 In your command line, run `./node_modules/mocha/bin/mocha`
